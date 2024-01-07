@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  natural_merge.cpp
+C:\Users\djast\source\repos\Natural merge\Natural merge\natural_merge.cpp(220,24): warning C4244: "=": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\djast\source\repos\Natural merge\Natural merge\natural_merge.cpp(238,53): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  9 of 403 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Natural merge.vcxproj -> C:\Users\djast\source\repos\Natural merge\x64\Release\Natural merge.exe
